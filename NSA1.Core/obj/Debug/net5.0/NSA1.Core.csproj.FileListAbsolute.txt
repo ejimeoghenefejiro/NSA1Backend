@@ -1,0 +1,15 @@
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\bin\Debug\net5.0\NSA1.Core.deps.json
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\bin\Debug\net5.0\NSA1.Core.dll
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\bin\Debug\net5.0\ref\NSA1.Core.dll
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\bin\Debug\net5.0\NSA1.Core.pdb
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.AssemblyInfoInputs.cache
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.AssemblyInfo.cs
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.dll
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\ref\NSA1.Core.dll
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.pdb
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.csproj.AssemblyReference.cache
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\bin\Debug\net5.0\NSA1.Core.runtimeconfig.json
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\bin\Debug\net5.0\NSA1.Core.runtimeconfig.dev.json
+C:\Users\Cyberspace\source\repos\NSA1BackEND\NSA1.Core\obj\Debug\net5.0\NSA1.Core.genruntimeconfig.cache
