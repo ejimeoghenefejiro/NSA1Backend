@@ -119,9 +119,9 @@ namespace NSA1.Web
 
                     }
                 });
-                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.XML";
-                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                swagger.IncludeXmlComments(xmlPath);              
+                //var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.XML";
+                //var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                //swagger.IncludeXmlComments(xmlPath);              
                 //swagger.IncludeXmlComments(Configuration.GetSection("SwaggerXMLPath"));
             });
         }
