@@ -24,6 +24,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace NSA1.Web
 {
     public class Startup
@@ -63,7 +64,7 @@ namespace NSA1.Web
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             // For Identity
-            services.AddIdentity<User, Role>()
+            services.AddIdentity<Register, Role>()
                  .AddRoleManager<RoleManager<Role>>()
                 .AddRoles<Role>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()

@@ -23,8 +23,4 @@
     <ProjectReference Include="..\NSA1.Core\NSA1.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Authentication\" />
-  </ItemGroup>
-
 </Project>
