@@ -28,7 +28,8 @@ namespace NSA1.Core.Dto.EntityModels
         public byte[] Cover { get; set; }
         public byte[] LogoType { get; set; }
         public bool ClubStatus { get; set; } = true; // 0/1 the club is active or not active
-
+        public DateTime CreateDate { get; set; }
+        public string CreatedBy { get; set; }
         public string Address { get; set; }
         public bool? IsClubAccountDeleted { get; set; }
         public string RegisterId { get; set; } 

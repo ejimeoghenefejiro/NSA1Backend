@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NSA1.Core.Dto.ViewModels
+namespace NSA1.Core.Dto
 {
-    public class ClubDetailView
-    {      
+    public class UpdateClubView
+    {
         public string ClubName { get; set; }
         public string Description { get; set; }
         public string street { get; set; }
@@ -17,12 +17,8 @@ namespace NSA1.Core.Dto.ViewModels
         public string Appartment { get; set; }
         public string Country { get; set; }
         public string ZipPostal { get; set; }
-        public string Site { get; set; }
-        public byte[] Cover { get; set; }
-        public byte[] LogoType { get; set; }
+        public string Site { get; set; }       
         public bool ClubStatus { get; set; } = true; // 0/1 the club is active or not active
-
         public string Address { get; set; }
-        public string RegisterId { get; set; }
     }
 }

@@ -31,6 +31,7 @@ namespace NSA1.Core.Dto.EntityModels
         public bool? IsMember { get; set; }
         public bool IsClub { get; set; }
         public bool ISAdminUser { get; set; }
-        
+        public bool DetailCompleted { get; set; }
+
     }
 }
