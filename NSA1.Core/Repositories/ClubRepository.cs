@@ -55,6 +55,7 @@ namespace NSA1.Core.Repositories
             catch (Exception ex)
             {
                 _logger.LogInformation($"Registered Club with  Regid {clubDetailView.RegisterId} and Club name {clubDetailView.ClubName} ");
+                ex.Message.ToString();
                 throw ex.InnerException;
             }
         }

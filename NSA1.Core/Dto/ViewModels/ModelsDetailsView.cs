@@ -35,5 +35,6 @@ namespace NSA1.Core.Dto.ViewModels
         public string MyCompetence { get; set; }
         public string WhatAttractMe { get; set; }
         public bool? IsModelAccountDeleted { get; set; }
+        public string RegisterId { get; set; }
     }
 }

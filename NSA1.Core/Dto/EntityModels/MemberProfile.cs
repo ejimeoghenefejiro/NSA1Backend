@@ -26,6 +26,8 @@ namespace NSA1.Core.Dto.EntityModels
         public byte[] ProfilePic { get; set; }
         public bool? IsMemberAccountDeleted { get; set; }
         public DateTime DateEdited { get; set; }
+        public DateTime CreateDate { get; set; }
+        public string CreatedBy { get; set; }
         public string RegisterId { get; set; }
         public Register Register { get; set; }
     }

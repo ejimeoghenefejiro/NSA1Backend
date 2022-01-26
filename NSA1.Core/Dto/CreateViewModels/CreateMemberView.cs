@@ -17,7 +17,7 @@ namespace NSA1.Core.Dto.CreateViewModels
         public string NickName { get; set; }
         public bool? Gender { get; set; }
         public int Age { get; set; }
-        public byte[] ProfilePic { get; set; }
+        public byte[] ProfilePic { get; set; } 
         public bool? IsMemberAccountDeleted { get; set; }
         public DateTime DateEdited { get; set; }
         public string RegisterId { get; set; }

@@ -15,7 +15,9 @@ namespace NSA1.Core.Dto.EntityModels
         }
         [Key]
         public Guid ClubProfileId { get; set; }
+        [Required(ErrorMessage ="Club Name Required")]
         public string ClubName { get; set; }
+        [Required(ErrorMessage = "Description is Required")]
         public string Description { get; set; }
         public string street { get; set; }
         public string site { get; set; }

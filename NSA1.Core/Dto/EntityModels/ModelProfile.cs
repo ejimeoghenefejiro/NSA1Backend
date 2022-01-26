@@ -41,6 +41,8 @@ namespace NSA1.Core.Dto.EntityModels
         public string MyCompetence { get; set; }
         public string WhatAttractMe { get; set; }
         public bool? IsModelAccountDeleted { get; set; }
+        public DateTime CreateDate { get; set; }
+        public string CreatedBy { get; set; }
         public string RegisterId { get; set; } 
         public Register Register { get; set; }  
 
